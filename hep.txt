@@ -1,0 +1,38 @@
+/=========== Helps ================
+- https://vpilip.com/how-setup-nextjs-with-redux-and-redux-debuger
+- https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf
+
+
+/========== Packages ============
+- https://github.com/kirill-konshin/next-redux-wrapper 
+- https://styled-system.com/
+- https://styled-components.com/
+- https://formik.org/docs/tutorial
+- https://www.npmjs.com/package/js-cookie
+- https://lodash.com/
+- https://www.npmjs.com/package/yup
+- https://www.npmjs.com/package/mobile-detect
+- https://www.npmjs.com/package/moment
+- https://www.npmjs.com/package/next-cookies
+- https://www.npmjs.com/package/next-compose-plugins
+- https://github.com/cyrilwanner/next-optimized-images
+- https://www.npmjs.com/package/next-transpile-modules
+- https://www.npmjs.com/package/react-accessible-accordion
+- https://github.com/danilowoz/react-content-loader
+- https://www.npmjs.com/package/react-google-maps
+- https://react-icons.github.io/react-icons/
+- https://www.npmjs.com/package/react-image-gallery
+- https://formatjs.io/docs/getting-started/installation
+- https://www.npmjs.com/package/react-share
+- https://www.npmjs.com/package/react-stickynode
+- https://www.npmjs.com/package/react-waypoint
+- https://github.com/cyrilwanner/next-optimized-images
+
+
+
+/============= Tutorials ==================
+- https://www.youtube.com/watch?v=SX1wEJkpJWc&list=PLdyQLyByx6i2xprAWh2_AtMqp9zHQNN1U&index=2
+- https://www.youtube.com/watch?v=MFuwkrseXVE
+- https://github.com/kirill-konshin/next-redux-wrapper
+- https://stackoverflow.com/questions/64024728/how-to-configure-redux-with-next-js
+- https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/
